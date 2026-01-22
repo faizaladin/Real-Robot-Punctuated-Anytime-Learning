@@ -4,3 +4,5 @@
 ![Image Header](assets/header_image.png)
 
 ### The system trains a robot in an offline simulation to perform a "snake" coverage pattern and periodically ("punctuates") the learning process by validating the best evolving solution on the physical robot to correct simulation biases.
+
+![Simulation](assets/simulation_image.png)
