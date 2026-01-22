@@ -233,7 +233,6 @@ with open('best.csv', 'w', newline='') as best_file:
     writer.writerow(score)
     #writer.writerow("")
 
-print('I like hyour genes..')
 print(best, '=', score[0])
 
 plt.xlim(-60,110)
