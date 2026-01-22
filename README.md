@@ -1,7 +1,7 @@
 # Punctuated Anytime Learning on a Real Robot
 
-## Faiz Aladin, Jim O'Connor
-## Connecticut College
+### Faiz Aladin, Jim O'Connor
+### Connecticut College
 
 <p align="center">
   <img src="assets/header_image.png" alt="Header Image" width="100%">
