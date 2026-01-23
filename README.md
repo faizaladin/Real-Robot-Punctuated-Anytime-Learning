@@ -33,7 +33,7 @@ The core learning happens in an offline simulation to speed up the evolutionary 
 ---
 
 ### Automated Reset
-We have implemented a reset function to have the robot return to the start position automatically. This ensures the entire training process is human-free.
+We have implemented a reset function to have the robot return to the start position automatically. This ensures the entire training process is end-to-end.
 
 https://github.com/user-attachments/assets/09d8d62e-7017-4d3c-8e16-91f6aca54ca8
 
