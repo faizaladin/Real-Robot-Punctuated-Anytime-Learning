@@ -1,6 +1,6 @@
 # Punctuated Anytime Learning on a Real Robot
 
-Gary B. Parker, Jim 'O Connor, Faiz Aladin
+Gary B. Parker, Jim O' Connor, Faiz Aladin
 
 Connecticut College
 
